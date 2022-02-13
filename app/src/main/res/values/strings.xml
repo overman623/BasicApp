@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+    <string name="main_add_todo">ADD</string>
+    <string name="main_delete_todo">DELETE</string>
+</resources>
